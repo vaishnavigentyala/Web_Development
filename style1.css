@@ -5,7 +5,6 @@ body {
     background-color: #000;
     color: #fff;
 }
-
 header {
     display: flex;
     justify-content: space-between;
@@ -13,33 +12,27 @@ header {
     padding: 20px;
     background-color: #001f3f;
 }
-
 .logo {
     font-size: 24px;
     font-weight: bold;
 }
-
 nav ul {
     list-style: none;
     display: flex;
     gap: 20px;
 }
-
 nav ul li {
     display: inline;
 }
-
 nav ul li a {
     text-decoration: none;
     color: #fff;
 }
-
 #hero {
     text-align: center;
     padding: 100px 20px;
     background-color: #003366;
 }
-
 .cta {
     display: inline-block;
     margin-top: 20px;
@@ -49,24 +42,20 @@ nav ul li a {
     text-decoration: none;
     border-radius: 5px;
 }
-
 #projects, #about, #team, #contact {
     padding: 50px 20px;
     text-align: center;
 }
-
 .project-list, .team-list {
     display: flex;
     justify-content: center;
     gap: 20px;
 }
-
 .project-item, .team-member {
     background: #222;
     padding: 20px;
     border-radius: 5px;
 }
-
 form input, form textarea {
     width: 100%;
     padding: 10px;
@@ -75,7 +64,6 @@ form input, form textarea {
     border-radius: 5px;
     text-align: center;
 }
-
 button {
     padding: 10px 20px;
     border: none;
@@ -84,13 +72,11 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
-
 footer {
     text-align: center;
     padding: 20px;
     background: #001f3f;
 }
-
 .footer-social a img {
     width: 24px;
     height: 24px;
